@@ -1,0 +1,54 @@
+.carousel-inner{
+   margin-left: 700pt;
+   margin: 30pt;
+}
+
+
+.carousel-control-prev
+{
+    position: flex;
+    margin-left:20%; ;
+
+}
+
+
+.carousel-control-next
+{
+    position: absolute;
+    margin-right: 35%;
+}
+
+.texto
+{
+    margin-left: 5pt;
+    border: solid 2pt gray;
+    display: inline-block;
+}
+
+.compra
+{   
+    font-size: 15pt;
+    background-color: rgb(70, 70, 189);
+    display: inline-block;
+    color: white;
+    margin-top: 10pt;
+    margin-left: 10pt;
+}
+
+.lista
+{
+    margin-top: 10pt;
+    margin-left: 8pt;
+    margin-right: 8pt;
+    list-style: none;
+}
+
+.div
+{
+    margin-left: 20pt;
+}
+
+.terreno
+{
+    text-align: center;
+}
