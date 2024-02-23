@@ -528,33 +528,7 @@ footer nav {
     margin-bottom: 10pt;
  }
 
- .home {
-    display: inline-block;
-    height: 200px;
-    position: relative;
-    width: 200px;
-  }
-  
-  .home:hover::after {
-    visibility: visible
-  }
-  
-  .home img {
-    width: 100%
-  }
-  
-  .home::after {
-    background: url(https://i.stack.imgur.com/Iy23q.png) no-repeat;
-    background-position: 45% 55%;
-    content: '';
-    display: block;
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    visibility: hidden;
-    width: 100%
-  }
+
   
     /*photo*/
 
